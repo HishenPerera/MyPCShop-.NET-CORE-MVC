@@ -1,0 +1,19 @@
+@model List<MyPCShop.Models.Products>
+@{
+    ViewData["Title"] = "Products";
+}
+<h2>Products</h2>
+<div class="row">
+@foreach(var product in Model)
+{
+    <div class="col-md-4 mb-3">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">@product.Name</h5>
+                <p class="card-text">Price: @product.Price</p>
+                <a href="https://wa.me/?text=I'm+interested+in+@product.Name" class="btn btn-success">WhatsApp</a>
+            </div>
+        </div>
+    </div>
+}
+</div>
