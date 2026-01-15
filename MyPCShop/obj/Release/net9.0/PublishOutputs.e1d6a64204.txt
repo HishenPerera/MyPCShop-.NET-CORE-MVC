@@ -1,0 +1,7 @@
+/Users/hishenperera/Documents/MyPCShop-.NET-CORE-MVC/MyPCShop/bin/Release/net9.0/publish/MyPCShop
+/Users/hishenperera/Documents/MyPCShop-.NET-CORE-MVC/MyPCShop/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/hishenperera/Documents/MyPCShop-.NET-CORE-MVC/MyPCShop/bin/Release/net9.0/publish/appsettings.json
+/Users/hishenperera/Documents/MyPCShop-.NET-CORE-MVC/MyPCShop/bin/Release/net9.0/publish/MyPCShop.dll
+/Users/hishenperera/Documents/MyPCShop-.NET-CORE-MVC/MyPCShop/bin/Release/net9.0/publish/MyPCShop.deps.json
+/Users/hishenperera/Documents/MyPCShop-.NET-CORE-MVC/MyPCShop/bin/Release/net9.0/publish/MyPCShop.runtimeconfig.json
+/Users/hishenperera/Documents/MyPCShop-.NET-CORE-MVC/MyPCShop/bin/Release/net9.0/publish/MyPCShop.pdb
